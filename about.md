@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /about/
 ---
 
@@ -17,7 +17,7 @@ Before this, I worked as a Robotics AI Research and Development Intern at DHA Si
 My broader research interests include robot navigation, field robotics, mobile manipulation, sensor fusion, robot software architecture, deterministic control pipelines, and programming-language ideas for robotics. I am preparing for PhD study in computer science and robotics, with a long-term goal of contributing to reliable, explainable, and deployable autonomous robot systems.
 
 <figure>
-  <img src="/assets/img/aungko.jpeg" alt="Aung Khant Ko at the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia" style="max-width: 360px; border-radius: 10px; border: 1px solid var(--border);">
+  <img src="{{ '/assets/img/aungko.jpeg' | relative_url }}" alt="Aung Khant Ko at the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia" style="max-width: 360px; border-radius: 10px; border: 1px solid var(--border);">
   <figcaption>At the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia.</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
     <p><strong>Robotics Software Developer · Computer Science Graduate · Robotics Research Collaborator</strong></p>
     <p><a href="https://scholar.google.com/citations?user=qfv_6t4AAAAJ&hl=en&authuser=1">Google Scholar</a> · <a href="https://github.com/akkexd">GitHub</a> · <a href="https://www.linkedin.com/in/aungkko/">LinkedIn</a> · <a href="mailto:aungkko.edu@gmail.com">Email</a></p>
   </div>
-  <img class="profile-photo" src="/assets/img/aungko.jpeg" alt="Portrait of Aung Khant Ko at the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia">
+  <img class="profile-photo" src="{{ '/assets/img/aungko.jpeg' | relative_url }}" alt="Portrait of Aung Khant Ko at the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia">
 </div>
 
 I am a computer science graduate and robotics software developer focused on autonomous mobile robots, ROS2 navigation, mecanum-wheel control, sensor fusion, and practical robot autonomy in real-world indoor environments.

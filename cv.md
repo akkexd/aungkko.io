@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: "CV"
 permalink: /cv/
 ---
 
@@ -8,7 +8,7 @@ permalink: /cv/
 
 My current CV is available below.
 
-[Download CV](/assets/pdf/Aung_Khant_Ko_CV.pdf)
+[Download CV]({{ '/assets/pdf/Aung_Khant_Ko_CV.pdf' | relative_url }})
 
 ## Education
 
