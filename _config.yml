@@ -1,0 +1,50 @@
+title: Aung Khant Ko
+description: Robotics software developer and computer science graduate focused on ROS2, autonomous mobile robots, sensor fusion, and reproducible robot navigation research.
+url: "https://aungkko.io"
+baseurl: ""
+
+author:
+  name: Aung Khant Ko
+  email: aungkko.edu@gmail.com
+  github: akkexd
+  linkedin: aungkko
+  google_scholar: qfv_6t4AAAAJ
+
+collections:
+  software:
+    output: true
+    permalink: /software/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "software"
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: page
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
