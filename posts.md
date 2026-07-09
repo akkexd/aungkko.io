@@ -4,15 +4,18 @@ title: "Posts"
 permalink: /posts/
 ---
 
-# Posts
-
+<p class="page-description">
 Technical notes on robotics software, ROS2 navigation, mobile robot experiments, Mech reactive dataflow, benchmarking, Linux development, and research preparation.
+</p>
 
-<ul class="post-list">
+<div class="post-list">
   {% for post in site.posts %}
-  <li>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+    <article class="post-preview">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+      {% endif %}
+    </article>
   {% endfor %}
-</ul>
+</div>

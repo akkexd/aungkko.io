@@ -28,4 +28,8 @@ My current CV is available below.
 - **AI / ML:** Deep Learning, CNNs, TensorFlow, Computer Vision, Object Detection, NLP
 - **Tools:** Linux, Git, Arduino, Intel RealSense, RPLIDAR, STM32
 
-<iframe src="/assets/pdf/Aung_Khant_Ko_CV.pdf" width="100%" height="900px" title="Aung Khant Ko CV PDF" style="border: 1px solid var(--border); border-radius: 8px;"></iframe>
+<iframe
+  class="cv-frame"
+  src="{{ '/assets/pdf/Aung_Khant_Ko_CV.pdf' | relative_url }}"
+  title="Aung Khant Ko CV PDF">
+</iframe>
