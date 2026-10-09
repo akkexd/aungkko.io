@@ -8,7 +8,7 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">
-      Robotics Software Developer · Computer Science Graduate · Robotics Research Collaborator
+      Computer Science Graduate · Robotics Researcher · Independent Research Collaborator, Mech Robotics Lab
     </p>
 
     <h1>Aung Khant Ko</h1>
@@ -33,9 +33,11 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
 
     <div class="hero-bio">
       <p>
-        I am a computer science graduate (Thomas Edison State University) and robotics software
-        developer working on dependable autonomy for resource-constrained robots — bounded reactive
-        execution, failure-aware control, and robust navigation in real-world indoor environments.
+        I am a computer science graduate interested in dependable autonomy for resource-constrained
+        cyber-physical systems — particularly the interface between high-level robot behavior and
+        reliable execution on imperfect physical hardware. My current research focuses on reactive
+        execution substrates for robot control: how sensing, computation, runtime semantics, actuator
+        constraints, and the physical environment interact in closed-loop autonomous systems.
       </p>
 
       <p>
@@ -52,6 +54,14 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
         robotics, with interests in reactive execution substrates, supervisory control, and resilient
         decentralized coordination.
       </p>
+
+      <p class="interests-label"><strong>Research interests</strong></p>
+      <ul class="interests-list">
+        <li>Dependable autonomy for resource-constrained robots</li>
+        <li>Reactive execution substrates for robot control</li>
+        <li>Failure-aware and supervisory control</li>
+        <li>Resilient decentralized coordination</li>
+      </ul>
     </div>
   </div>
 
@@ -69,7 +79,7 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
   <div class="news-list">
     <article class="news-item">
       <div class="news-date">
-        <span>Oct</span>
+        <span>Sep</span>
         <strong>2026</strong>
       </div>
       <p>
