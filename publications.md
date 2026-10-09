@@ -13,6 +13,18 @@ A list of my research papers, preprints, and technical manuscripts. I label work
 <article class="publication">
   <div class="year">2026</div>
   <div>
+    <span class="tag">Accepted · Peer-Reviewed Workshop</span>
+    <h3>Mech: A Rust-Native Embeddable Reactive Numerical Language for Heterogeneous Computing in Robotics</h3>
+    <p>Corey Montella, <strong>Aung Khant Ko</strong>, and Steven McPhillimey</p>
+    <p>IROS 2026 Workshop on Why Rust for Robotics? (R4R), Pittsburgh, PA, 2026. Accepted for presentation.</p>
+    <p>This paper presents Mech, a Rust-native embeddable reactive language, and its execution model for heterogeneous computing in robotics.</p>
+    <p><a href="https://openreview.net/forum?id=yuHwY3jh3w">OpenReview</a></p>
+  </div>
+</article>
+
+<article class="publication">
+  <div class="year">2026</div>
+  <div>
     <span class="tag">Preprint</span>
     <h3>Practical Navigation of a Mecanum-Wheel Robot on High-Friction Carpet: Motor Deadzone Compensation, Rotation Asymmetry, and Multi-Phase Goal Management</h3>
     <p><strong>Aung Khant Ko</strong></p>

@@ -10,7 +10,7 @@ I am a robotics software developer and computer science graduate from Thomas Edi
 
 My recent robotics work centers on a mecanum-wheel autonomous mobile robot running ROS2 Jazzy on a Raspberry Pi 5. I developed and tested a navigation stack using EKF sensor fusion, AMCL localization, Nav2 planning and control, LiDAR, depth sensing, and custom goal-management logic for high-friction carpet environments. This project led to my 2026 engrXiv preprint on motor deadzone compensation, rotation asymmetry, and multi-phase goal management for practical mecanum-wheel robot navigation.
 
-I am currently working as a Visiting Research Collaborator in Lehigh University CSE with Prof. Corey Montella, where I am exploring Mech reactive dataflow integration for robot control. My current research direction asks how robotics computation can become more transparent, replayable, inspectable, and reproducible from logs.
+I am currently an Independent Research Collaborator on the Mech team at Lehigh University CSE, working with Prof. Corey Montella, where I am exploring Mech reactive dataflow integration for robot control. This work led to a co-authored paper accepted at the IROS 2026 Workshop on Why Rust for Robotics? (R4R). My current research direction asks how robotics computation can become more transparent, replayable, inspectable, and reproducible from logs.
 
 Before this, I worked as a Robotics AI Research and Development Intern at DHA Siamwalla Ltd. in Bangkok, Thailand. There, I researched autonomous mobile robots for warehouse automation, built a TurtleBot3 ROS1 prototype, implemented A*-based planning and costmaps, integrated TF, odometry, localization, and sensor pipelines, and developed a stereo-vision obstacle detection pipeline.
 

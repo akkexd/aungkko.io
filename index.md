@@ -67,12 +67,24 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
   <div class="news-list">
     <article class="news-item">
       <div class="news-date">
+        <span>Oct</span>
+        <strong>2026</strong>
+      </div>
+      <p>
+        Co-authored an accepted paper at the IROS 2026 Workshop on Why Rust for Robotics? (R4R):
+        &ldquo;Mech: A Rust-Native Embeddable Reactive Numerical Language for Heterogeneous Computing
+        in Robotics.&rdquo;
+      </p>
+    </article>
+
+    <article class="news-item">
+      <div class="news-date">
         <span>Jun</span>
         <strong>2026</strong>
       </div>
       <p>
-        Started as a Visiting Research Collaborator in Lehigh University CSE, working on Mech
-        reactive dataflow integration for robot control.
+        Started as an Independent Research Collaborator on the Mech team at Lehigh University CSE,
+        working on Mech reactive dataflow integration for robot control.
       </p>
     </article>
 

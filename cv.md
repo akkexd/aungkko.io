@@ -24,13 +24,14 @@ Visiting Student, Robotics and Artificial Intelligence Engineering, 2023–2024
 
 ## Experience
 
-**Visiting Research Collaborator — Lehigh University CSE**
-June 2026–Present
+**Independent Research Collaborator — Mech Robotics Lab, Lehigh University CSE**
+June 2026–Present · Supervisor: Prof. Corey Montella
 
-- Integrated Mech 0.3.5 reactive dataflow into mecanum robot control.
+- Integrated Mech reactive dataflow into mecanum robot control.
 - Built Mech from source on aarch64 Raspberry Pi 5.
 - Benchmarked Mech versus Python and C++ kinematics costs.
-- Designed a five-experiment latency and jitter measurement suite.
+- Designed a latency and jitter measurement suite for per-turn execution.
+- Co-authored the accepted IROS 2026 R4R Workshop paper on Mech's embedding and heterogeneous execution model.
 
 **Robotics Software Developer — Independent Robotics Research Project**
 November 2025–May 2026
