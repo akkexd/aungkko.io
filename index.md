@@ -33,22 +33,24 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
 
     <div class="hero-bio">
       <p>
-        I am a computer science graduate and robotics software developer focused on autonomous
-        mobile robots, ROS2 navigation, mecanum-wheel control, sensor fusion, and practical robot
-        autonomy in real-world indoor environments.
+        I am a computer science graduate (Thomas Edison State University) and robotics software
+        developer working on dependable autonomy for resource-constrained robots — bounded reactive
+        execution, failure-aware control, and robust navigation in real-world indoor environments.
       </p>
 
       <p>
-        My recent work includes a ROS2 Jazzy mecanum-wheel robot navigation stack with EKF fusion,
-        Nav2, AMCL, LiDAR, depth sensing, deadzone compensation, and multi-phase goal management
-        for high-friction carpet navigation.
+        I am an Independent Research Collaborator at the Mech Robotics Lab, Lehigh University CSE,
+        working with Prof. Corey Montella on the Mech Rust-native reactive runtime for cyber-physical
+        robot control. This work led to a co-authored paper accepted at the IROS 2026 Workshop on
+        Why Rust for Robotics? (R4R).
       </p>
 
       <p>
-        I am currently exploring reactive dataflow robotics with Mech, with a focus on transparent,
-        replayable, and inspectable robot control computation. My long-term research interests include
-        field robotics, robust robot navigation, auditable control systems, and reproducible robotics
-        experiments.
+        My earlier work includes a ROS2 Jazzy mecanum-wheel navigation stack — EKF fusion, Nav2,
+        AMCL, LiDAR and depth sensing, deadzone compensation, and multi-phase goal management for
+        high-friction carpet — published as a 2026 engrXiv preprint. I am preparing for PhD study in
+        robotics, with interests in reactive execution substrates, supervisory control, and resilient
+        decentralized coordination.
       </p>
     </div>
   </div>
@@ -83,8 +85,8 @@ description: Personal portfolio of Aung Khant Ko, a robotics software developer 
         <strong>2026</strong>
       </div>
       <p>
-        Started as an Independent Research Collaborator on the Mech team at Lehigh University CSE,
-        working on Mech reactive dataflow integration for robot control.
+        Started as an Independent Research Collaborator at the Mech Robotics Lab, Lehigh University
+        CSE, working on Mech reactive dataflow integration for robot control.
       </p>
     </article>
 

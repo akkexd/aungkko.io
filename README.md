@@ -57,7 +57,8 @@ bundle exec jekyll serve
 - **New post:** add `_posts/YYYY-MM-DD-slug.md` with `title`, `date`, and `tags` front matter. It appears automatically on `/posts/`.
 - **New project:** add an entry to `_software/` and a card to `software.md`.
 - **New publication:** add an entry to `_publications/` and to `publications.md`. Label status accurately: preprint, under review, in preparation, conference, or journal.
-- **Update CV:** replace `assets/pdf/Aung_Khant_Ko_CV.pdf`.
+- **Update CV:** replace `assets/pdf/AungKo_CV.pdf`.
+- **Add a certificate:** drop the PDF in `assets/pdf/certificates/` and add an entry to `certificates.md`.
 - **Project images:** add to `assets/img/` (keep under 500 KB), then update the matching card in `software.md`.
 
 ## Pre-launch checklist
