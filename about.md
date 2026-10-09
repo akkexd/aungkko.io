@@ -6,11 +6,11 @@ permalink: /about/
 
 # About
 
-I am a robotics software developer and computer science graduate with a background in robotics, autonomous mobile robots, embedded systems, and practical robot navigation. I am interested in dependable autonomy for resource-constrained cyber-physical systems — particularly the interface between high-level robot behavior and reliable execution on imperfect physical hardware. My work focuses on building robot systems that move reliably in real environments, not only in simulation.
+I am a robotics software developer and computer science graduate with a background in robotics, autonomous mobile robots, embedded systems, and practical robot navigation. I am interested in dependable autonomy for resource-constrained cyber-physical systems — particularly the interface between high-level robot behavior and reliable execution on imperfect physical hardware.
 
 <figure>
-  <img src="{{ '/assets/img/aungko.jpeg' | relative_url }}" alt="Aung Khant Ko at the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia" style="max-width: 360px; border-radius: 10px; border: 1px solid var(--border);">
-  <figcaption>At the Global UGRAD alumni seminar in Kuala Lumpur, Malaysia.</figcaption>
+  <img src="{{ '/assets/img/AungKo_R4RPaper.jpeg' | relative_url }}" alt="Aung Khant Ko presenting the Mech poster at the IROS 2026 Why Rust for Robotics? (R4R) workshop" style="max-width: 360px; border-radius: 10px; border: 1px solid var(--border);">
+  <figcaption>Presenting the Mech poster at the IROS 2026 Why Rust for Robotics? (R4R) workshop.</figcaption>
 </figure>
 
 ## Current Research — Mech Robotics Lab, Lehigh University
